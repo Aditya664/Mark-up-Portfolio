@@ -1,8 +1,5 @@
-<div align="center">
-  
-[Home](SKILLS.md) | [SKills](README.md)
-  
-</div>
+<p><a href="SKILLS.md">Home</a> | <a href="README.md">SKills</a></p>
+
 
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
