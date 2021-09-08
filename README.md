@@ -1,6 +1,6 @@
 
 
-|  [Skills](SKILLS.md) | [Github](GITHUB.md)  | [Home](README.md)  | [Education](EDU.md)   |
+|  [Skills](SKILLS.md) | [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
 
 <p align="center">
