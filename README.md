@@ -1,6 +1,6 @@
 <br>
    
-   |                     [Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
+   |                     [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
