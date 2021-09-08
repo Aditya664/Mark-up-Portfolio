@@ -1,9 +1,5 @@
-<div align="center">
 
-[Home](http://aditya-deshmukh.me/Markdown-Portfolio/PROJECTS.md"Home") | [Project](http://aditya-deshmukh.me/Markdown-Portfolio/"Project")
-
-</div>
-## Project
+##  Project
 
 Some awesome project given below.
 
