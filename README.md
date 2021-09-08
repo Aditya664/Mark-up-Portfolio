@@ -66,13 +66,13 @@ Certificates:▼
 </summary>
 <div align="center">
 
- ![Kaggle](https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-07%20at%2010.18.18%20AM.jpeg "Kaggle")
+ <img src="https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-07%20at%2010.18.18%20AM.jpeg"/>
 > ### Kaggle pandas 
 
 ------------
 
 
-![Internship](https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-08%20at%208.07.22%20AM.jpeg "Internship")
+<img src="https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-08%20at%208.07.22%20AM.jpeg />
 > ### Internship Certificate
 </div>
 </details>
