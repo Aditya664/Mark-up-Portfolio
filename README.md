@@ -1,6 +1,7 @@
 <div align="center">
     
   [Syllabus](SYLLABUS.md)  
+    [label](http://example.com)
     
 </div>
 
