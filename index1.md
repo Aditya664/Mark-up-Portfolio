@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://aditya-deshmukh.me/Markdown-Portfolio/">Home</a> | <a href="PROJECTS.md">Projects</a>
+<a href="http://aditya-deshmukh.me/Markdown-Portfolio/">Home</a> | <a href="README.md">Projects</a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
