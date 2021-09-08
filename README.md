@@ -1,7 +1,5 @@
 <p align="center">
- 
-[Home](http://aditya-deshmukh.me/Markdown-Portfolio"Home") | [Project](http://aditya-deshmukh.me/Markdown-Portfolio/PROJECTS.md"Project")
- 
+<a href="http://aditya-deshmukh.me/Markdown-Portfolio/">Home</a> | <a href="http://aditya-deshmukh.me/Markdown-Portfolio/PROJECTS.md">Projects</a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
