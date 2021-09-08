@@ -1,6 +1,6 @@
 
 
-|  [Skills](SKILLS.md) | [Github stat](GITHUB.md)  | [Home](README.md)  | [Education](EDU.md)   |
+|  [Skills](SKILLS.md) | [Github](GITHUB.md)  | [Home](README.md)  | [Education](EDU.md)   |
 
 
 <p align="center">
@@ -39,20 +39,6 @@
 <a href="https://kaggle.com/adityadds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adityadds" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adityadeshmukh71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityadeshmukh71" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
 <div align="center">
-
- <img src="https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-07%20at%2010.18.18%20AM.jpeg"/>
-  <h3>Kaggle pandas </h3>
-
-
- <img src="https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-08%20at%208.07.22%20AM.jpeg"/>
-<h3> Internship Certificate </h3>
-</div>
-
-
+<h3>Made with 💖 by <a href="https://github.com/Aditya664">Aditya Deshmukh</a></h3>
+  </div>
