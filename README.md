@@ -1,10 +1,5 @@
-<p align="center">
-| <a href="#">==Home==</a> |
-</p>
+<h1 align="center">Hi 👋, I'm </h1>
 
-
-<h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
-<h3 align="center">Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
 ```
 {
@@ -14,7 +9,7 @@
   "place":"Satara"
 }
 ```
-
+<h3 align="center">Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄</h3>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
