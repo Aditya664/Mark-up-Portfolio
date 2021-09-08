@@ -1,6 +1,7 @@
 <div align="center">
-
-**[EFF](https://eff.org)**
+  
+[EFF](https://eff.org)
+  
   <hr>
   </div>
 <p align="center">
