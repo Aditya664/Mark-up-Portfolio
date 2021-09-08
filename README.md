@@ -5,8 +5,8 @@
 {
   "firstName": "Aditya",
   "lastName": "Deshmukh",
-  "age": 20
-  "place":"Satara"
+  "age": 20,
+  "place":"Satara",
   "message for you":"Thank You for taking the time to view my GitHub Profile 😄"
 }
 ```
