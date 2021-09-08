@@ -1,6 +1,6 @@
 <div align="center">
   
-[Home](README.md) \   [Home](SKILLS.md) 
+ [Home](README.md) \   [Home](SKILLS.md) 
   
 </div>
 
