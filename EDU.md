@@ -1,3 +1,6 @@
+
+|  [Skills](SKILLS.md) | [Github](GITHUB.md)  |  [Home](README.md)   |
+
 <div align="center">
   
   <h1>Education</h1>
