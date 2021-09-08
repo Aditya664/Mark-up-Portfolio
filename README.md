@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
 <h3 align="center">Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄</h3>
-
-<p align="left"> <img src="hhttps://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="aditya664" /> </p>
-
-<p align="left"> <a href="https://twitter.com/NoobCoder07" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
