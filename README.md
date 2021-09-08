@@ -1,8 +1,7 @@
 <div align="center">
-
 [Home](http://aditya-deshmukh.me/Markdown-Portfolio"Home") | [Project](http://aditya-deshmukh.me/Markdown-Portfolio/PROJECTS.md"Project")
-
 </div>
+
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
 <h3 align="center">Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 😄</h3>
 
