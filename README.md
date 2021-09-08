@@ -71,7 +71,7 @@ Certificates:▼
 
 ------------
 
-
+ <img src="https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-08%20at%208.07.22%20AM.jpeg"/>
 <h3> Internship Certificate </h3>
 </div>
 </details>
