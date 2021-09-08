@@ -1,6 +1,6 @@
 
   
-[`Skills`](SKILLS.md)     |     [`Home`](README.md)
+[`Skills`](SKILLS.md) [`Home`](README.md)
   
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
