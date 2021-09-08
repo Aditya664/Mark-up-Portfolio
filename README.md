@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob:https://medium.com/bdae724b-4983-4409-8582-0c3eedf747b0">
+  <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
 
 <h1 align="center">Hi 👋, I'm </h1>
