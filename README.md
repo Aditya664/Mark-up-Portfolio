@@ -1,6 +1,6 @@
 <p align="center">
   
-  [ Home ]("README.md") | [ Skills ]("SKILLS.md) | 
+  [ Home ](README.md) | [ Skills ](SKILLS.md) | 
   
 </p>
 <p align="center">
