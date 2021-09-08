@@ -1,13 +1,4 @@
-<details>
-<summary>
-Certificates:▼
-</summary>
-<div align="center">
-    
-[sys](SKILLS.md)
-    
-</div>
-</details>
+[`code`](SKILLS.md)
 
 
 <p align="center">
