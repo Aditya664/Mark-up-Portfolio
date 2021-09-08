@@ -1,8 +1,5 @@
-
- | [Skills](SKILLS,md) | [Home](README.md) |[`Github`](GITHUB.md) |
-|--|--|--|
-
-  
+|  [Skills](SKILLS.md "Skills") | [Github stat](GITHUB.md "Github stat")  | [Home](README.md "Home")   |
+| :------------: | :------------: | :------------: |
 
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
