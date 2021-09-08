@@ -1,6 +1,6 @@
 <p align="center">
   
-[EFF](https://eff.org)
+[EFF](SKILLS.md)
   
   <hr>
   </p>
