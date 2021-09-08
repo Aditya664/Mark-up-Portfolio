@@ -1,6 +1,7 @@
 
- 
-  [`Skills`](SKILLS.md)  [`Home`](README.md)  [`Github`](GITHUB.md) 
+ | [Skills](SKILLS,md) | [Home](README.md) |[`Github`](GITHUB.md) |
+|--|--|--|
+
   
 
 <p align="center">
