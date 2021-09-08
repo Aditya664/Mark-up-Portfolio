@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#">Home</a> | <a href="/READMEE.md">Projects</a>
+<a href="#">Home</a> | <a href="/READMEE.html">Projects</a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
