@@ -1,4 +1,4 @@
-|  [Home](README.md) | [Github](GITHUB.md)  | [Home](SKILLS.md)  | [Education](EDU.md)   |
+  |    [Home](README.md)   |   [Github](GITHUB.md)    |    [Education](EDU.md)   |
 
 <p align="left"> 
   <h1 align="center">Skills</h1>
