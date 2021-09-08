@@ -60,5 +60,20 @@ Github Stat:▼
 </div>
 </details>
 
+<details>
+<summary>
+Certificates:▼
+</summary>
+<div align="center">
 
+ ![Kaggle](https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-07%20at%2010.18.18%20AM.jpeg "Kaggle")
+> ### Kaggle pandas 
+
+------------
+
+
+![Internship](https://raw.githubusercontent.com/Aditya664/Mark-up-Portfolio/main/WhatsApp%20Image%202021-09-08%20at%208.07.22%20AM.jpeg "Internship")
+> ### Internship Certificate
+</div>
+</details>
 
