@@ -1,4 +1,4 @@
-|  [Skills](SKILLS.md "Skills") | [Github stat](GITHUB.md "Github stat")  | [Home](README.md "Home")   |
+|  [Skills](SKILLS.md) | [Github stat](GITHUB.md)  | [Home](README.md)   |
 | :------------: | :------------: | :------------: |
 
 <p align="center">
