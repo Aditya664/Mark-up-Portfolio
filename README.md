@@ -1,6 +1,17 @@
-<p><a href="SKILLS.md">Home</a> | <a href="README.md">SKills</a></p>
+<div align="center">
+<details>
+<summary>
+Menu▼
+</summary>
+    
+    [Syllabus](SYLLABUS.md)
+  <a href="SKILLS.md">Home</a> 
+    
+    [SKills](README.md)
 
-
+</details>
+</div>
+      
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
