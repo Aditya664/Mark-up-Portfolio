@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Github Stat </h1>
   
-   ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+   <a href="Intended hyperlink">![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)</a>
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
  
   <hr>
