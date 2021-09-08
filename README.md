@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611d4c4a414b8c46f2f52a3b50924c2506008f0d602&rid=giphy.gif&ct=g">
+</p>
+
 <h1 align="center">Hi 👋, I'm </h1>
 
 
