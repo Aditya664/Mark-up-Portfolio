@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
   
   [Home]("README.md") | [Skills]("SKILLS.md) | 
   
-</div>
+</p>
 <p align="center">
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
