@@ -1,6 +1,6 @@
 <p align="center">
   
-[EFF](SKILLS.md)
+[`code`](SKILLS.md)
   
   <hr>
   </p>
