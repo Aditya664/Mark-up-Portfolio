@@ -1,6 +1,6 @@
 <br>
 
-   |    [Skills](SKILLS.md)   |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
+   |                     [Skills](SKILLS.md)   |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
 
 <p align="center">
