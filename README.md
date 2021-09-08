@@ -1,6 +1,6 @@
 <div align="center">
  
-  ![`Skills`](SKILLS.md)  ![`Home`](README.md)  ![`Github`](GITHUB.md) 
+  [`Skills`](SKILLS.md)  [`Home`](README.md)  [`Github`](GITHUB.md) 
   
  </div>
 <p align="center">
