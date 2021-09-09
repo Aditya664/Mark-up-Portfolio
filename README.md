@@ -4,7 +4,7 @@
 
   |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
-<a href="EDU.md">HOME</a>
+<a href="EDU.html">HOME</a>
 
 </code>
 </div>
