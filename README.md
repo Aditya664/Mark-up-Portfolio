@@ -10,7 +10,7 @@
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
 
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm </h1>
 
 
 ```
