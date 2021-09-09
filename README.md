@@ -1,12 +1,9 @@
 <br>
 <div align="center">
-<code align="center">
 
-  |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
-
-<a href="EDU.html">HOME</a>
-
-</code>
+<a href="SKILLS.html">Skills</a>
+<a href="README.html">Home</a>
+<a href="GITHUB.html">Github</a>
 </div>
 
 
