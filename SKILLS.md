@@ -1,10 +1,14 @@
- <br>
+<br>
 <div align="center">
 
-| <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
+| <a color="green" href="SKILLS.html">Skills</a> | <a href="README.html">Home</a> | <a href="EDU.html">Education</a> |
+  
+  <br>
+  
 
 </div>
 
+<br>
 
 <p align="center">
  <img src = "https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width = 250px> 
