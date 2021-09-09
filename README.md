@@ -1,7 +1,9 @@
 <br>
 
    
-  <h5 align="center"> |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   | </h5>
+  <h5 align="center">
+
+  |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   | </h5>
 
 
 <p align="center">
