@@ -1,12 +1,12 @@
 <br>
 
    
-  <h5 align="center">
+  <code align="center">
 
   |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
 <a href="EDU.md">HOME</a>
- </h5>
+ </code>
 
 
 <p align="center">
