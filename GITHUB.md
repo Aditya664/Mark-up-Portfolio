@@ -19,5 +19,17 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&layout=compact"/>
   <hr>
   <h1>Top Projects</h1>
+  <div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=C-Sharp-Start-to-End&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Dad-s-Joke&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Animated-splash-screen.&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Collage_Admin_App&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=DogVSCat_Prediction_using_tensorflow&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Collage-Application_client_app&theme=synthwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Implement-ml-model-in-android-app&theme=synthwave">
+    
+    
+    
+  </div>
   <hr>
 </div>
