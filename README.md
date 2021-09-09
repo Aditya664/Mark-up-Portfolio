@@ -1,6 +1,7 @@
-<br>
-<div align="center">
 
+<div align="center">
+<h1>./Hacker </h1>
+<br>
 | <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
 
 </div>
