@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **💥My Blog, Github Project**
 
-- 🌱 I’m currently learning **ata Science,AWS,Data Engineering**
+- 🌱 I’m currently learning **Data Science,AWS,Data Engineering**
 
 - 👯 I’m looking to collaborate on **Projects,Tech Articles**
 
