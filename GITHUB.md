@@ -7,6 +7,7 @@
 <br>
 <div align="center">
   <h1>Github Stat </h1>
+ <img src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width="100%"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664"/>
 <img src="https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664"/>
   <img src="https://badges.pufler.dev/repos/Aditya664"/>
