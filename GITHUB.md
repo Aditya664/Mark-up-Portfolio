@@ -4,7 +4,7 @@
 | <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
 
 </div>
-
+<br>
 <div align="center">
   <h1>Github Stat </h1>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664"/>
