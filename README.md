@@ -1,13 +1,11 @@
 <br>
-
-   
-  <code align="center">
+<code align="center">
 
   |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
 <a href="EDU.md">HOME</a>
 
- </code>
+</code>
 
 
 <p align="center">
