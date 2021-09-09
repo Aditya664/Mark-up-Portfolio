@@ -3,7 +3,10 @@
    
   <h5 align="center">
 
-  |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   | </h5>
+  |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
+
+<a href="/MARK-UP-PORTFOLIO/EDU.md">HOME</a>
+ </h5>
 
 
 <p align="center">
