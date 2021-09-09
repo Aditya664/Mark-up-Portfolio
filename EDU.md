@@ -1,5 +1,10 @@
 
-|  [Skills](SKILLS.md) | [Github](GITHUB.md)  |  [Home](README.md)   |
+<br>
+<div align="center">
+
+| <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
+
+</div>
 
 <div align="center">
   
