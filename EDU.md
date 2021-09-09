@@ -8,7 +8,7 @@
 <br>
 <div align="center">
   
-<img width=180px align="center" src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif"/>
+<img width=250px align="center" src="https://media1.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif?cid=ecf05e47w9l6v2g3ha1y5d28iv2fqpgzmfhgs661fqtmm6vt&rid=giphy.gif&ct=s"/>
   <h1>Education</h1>
   
  </div>
