@@ -1,9 +1,8 @@
 <br>
 <div align="center">
 
-| <a href="SKILLS.html">Skills</a> |
-<a href="README.html">Home</a> |
-<a href="GITHUB.html">Github</a> |
+| <a color="green" href="SKILLS.html">Skills</a> | <a href="README.html">Home</a> | <a href="GITHUB.html">Github</a> |
+
 </div>
 
 
