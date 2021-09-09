@@ -1,7 +1,7 @@
 
 |  [Skills](SKILLS.md) | [Github](GITHUB.md)  |  [Home](README.md)   |
 
-<img align="center" src="https://c.tenor.com/tXa782CJISoAAAAi/akirambow-plump-little-chick.gif"/>
+<img align="center" src="https://media4.giphy.com/media/8t7lXR6Sep8zB6v7El/giphy.webp?cid=6c09b952d2fc916215a74c2aa86a028ef6cda15965c099fe&rid=giphy.webp&ct=g"/>
 <div align="center">
   
   <h1>Education</h1>
