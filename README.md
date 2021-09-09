@@ -1,8 +1,10 @@
-
-<div align="center">
 <br>
+<div align="center">
+
 | <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
+  
   <br>
+  
   <hr>
 
 </div>
