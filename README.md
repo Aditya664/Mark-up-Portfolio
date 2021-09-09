@@ -5,7 +5,7 @@
 
   |   [     Skills](SKILLS.md)    |   [Github](GITHUB.md)  |  [Education](EDU.md)   |
 
-<a href="/MARK-UP-PORTFOLIO/EDU.md">HOME</a>
+<a href="EDU.md">HOME</a>
  </h5>
 
 
