@@ -7,6 +7,7 @@
 <br>
 <div align="center">
   <h1>Github Stat </h1>
+    <hr>
  <img src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width="100%"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664"/>
 <img src="https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664"/>
@@ -19,6 +20,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=radical&layout=compact"/>
   <hr>
   <h1>Top Projects</h1>
+    <hr>
   <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=C-Sharp-Start-to-End&theme=synthwave">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya664&repo=Dad-s-Joke&theme=synthwave">
