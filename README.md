@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 
-| <a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">Github</a> |
+<a color="green" href="SKILLS.html">Skills</a> | <a href="EDU.html">Education</a> | <a href="GITHUB.html">GitHub</a>
   
   <br>
   
@@ -13,32 +13,29 @@
   <img src="https://github.com/Aditya664/Markdown-Portfolio/blob/main/animation_500_ktbg3xd2-min.gif?raw=true">
 </p>
 
-<h1 align="center">Hi ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm </h1>
-
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm </h1>
 
 ```
 {
   "firstName": "Aditya",
   "lastName": "Deshmukh",
   "age": 20,
-  "place":"Satara",
-  "message for you":"Thank You for taking the time to view my GitHub Profile 😄"
+  "place": "Satara",
+  "message for you": "Thank You for taking the time to view my GitHub Profile 😄"
 }
 ```
 
+- 🔭 I’m currently working on **My Blog and GitHub Projects** 💥
 
+- 🌱 I’m currently learning **Data Science, AWS, and Data Engineering**
 
-- 🔭 I’m currently working on **💥My Blog, Github Project**
+- 👯 I’m looking to collaborate on **Projects, and Tech Articles**
 
-- 🌱 I’m currently learning **Data Science,AWS,Data Engineering**
+- 👨‍💻 All of my projects are available at [my portfolio](http://aditya664.me/)
 
-- 👯 I’m looking to collaborate on **Projects,Tech Articles**
+- 💬 Ask me about **Python, JavaScript, Freelancing Opportunites, and Open Source**
 
-- 👨‍💻 All of my projects are available at [http://aditya664.me/](http://aditya664.me/)
-
-- 💬 Ask me about **Python, JavaScript, Freelancing Opportunites, Open Source**
-
-- 📫 How to reach me **adityadeshmukh7350@gmail.com**
+- 📫 How to reach me: **adityadeshmukh7350@gmail.com**
 
 <p align="center">
 
