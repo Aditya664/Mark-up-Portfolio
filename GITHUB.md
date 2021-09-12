@@ -1,12 +1,12 @@
 <br>
 <div align="center">
 
-| <a color="green" href="SKILLS.html">Skills</a> | <a href="http://aditya-deshmukh.me/Mark-up-Portfolio/">Home</a> | <a href="EDU.html">Education</a> |
+<a color="green" href="SKILLS.html">Skills</a> | <a href="http://aditya-deshmukh.me/Mark-up-Portfolio/">Home</a> | <a href="EDU.html">Education</a>
 
 </div>
 <br>
 <div align="center">
-  <h1>Github Stat </h1>
+  <h1>GitHub Stats </h1>
     <hr>
  <img src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width="100%"> 
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664"/>
