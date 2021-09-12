@@ -1,10 +1,12 @@
 <br>
 <div align="center">
 
-<a color="green" href="EDU.html">Skills</a> | <a href="http://aditya-deshmukh.me/Mark-up-Portfolio/">Home</a> | <a href="GITHUB.html">GitHub</a>
-  
+<a color="green" href="EDU.html">Skills</a> |
+<a href="http://aditya-deshmukh.me/Mark-up-Portfolio/">Home</a> |
+<a href="GITHUB.html">GitHub</a>
+
   <br>
-  
+
 
 </div>
 
